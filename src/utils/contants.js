@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = "AIzaSyDADHtcRWsMpkL73Ph3jCNZIW-OCxTJQDE";
+
 
 export const LIVE_CHAT_COUNT = 25;
 
